@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!👋, I'm Anurag</h1>
 <h3 align="center">A second year B.Tech student who is fascinated by computers.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmd-anurag&label=Profile%20views&color=000000&style=flat" alt="cmd-anurag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmd-anurag&label=Profile%20views&color=008000&style=flat" alt="cmd-anurag" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmd-anurag" alt="cmd-anurag" /></a> </p>
 
@@ -34,7 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmd-anurag&show_icons=true&theme=dark&locale=en&layout=compact" alt="cmd-anurag" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmd-anurag&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="cmd-anurag" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmd-anurag&show_icons=true&theme=dark&hide_border=true&locale=en" alt="cmd-anurag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmd-anurag&theme=dark" alt="cmd-anurag" /></p>
 
