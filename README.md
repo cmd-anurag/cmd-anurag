@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cmd-anurag](https://github.com/cmd-anurag)
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++ and Python**
 
-- 📫 How to reach me **sslga450n@mozmail.com**
+- 📫 How to reach me - **sslga450n@mozmail.com**
 
-- ⚡ Fun fact **All the information stored on the entire internet is estimated to weigh less than a grain of sand when converted to the mass of electrons.**
+- ⚡ Fun fact - **Did you know that all the information stored on the entire internet is estimated to weigh less than a grain of sand when converted to the mass of electrons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
