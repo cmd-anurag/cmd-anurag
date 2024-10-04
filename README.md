@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cmdanurag" target="blank"><img src="https://img.shields.io/twitter/follow/cmdanurag?logo=twitter&style=for-the-badge" alt="cmdanurag" /></a> </p>
 
-- 🔭 I’m currently working on [a chess game in Unity](https://github.com/cmd-anurag/chess)
+- 🔭 I’m currently working on [a space shooter game in Unity](https://github.com/cmd-anurag/void-defender)
 
 - 🌱 I’m currently learning **Unity and Data Structures & Algorithms**
 
