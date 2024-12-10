@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a space shooter game in Unity](https://github.com/cmd-anurag/void-defender)
 
-- 🌱 I’m currently learning **Unity and Data Structures & Algorithms**
+- 🌱 I’m currently learning **Unity, Full Stack Web Development and Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cmd-anurag](https://github.com/cmd-anurag)
 
