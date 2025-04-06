@@ -1,8 +1,7 @@
-<h1 align="center">Hello World!👋, I'm Anurag</h1>
-<h3 align="center">A second year B.Tech student who is fascinated by computers.</h3>
+![Header](./header.png)
 
 # 💫 About Me:
-I'm Anurag, a full-stack web developer and game developer. I work with web technologies and game mechanics in Unity. I prefer systematic and scalable solutions in both fields. Most of my projects are open-source and built with a focus on efficiency.
+A second year B.Tech student who is fascinated by computers. I work with web technologies and game mechanics in Unity. I prefer systematic and scalable solutions in both fields. Most of my projects are open-source and built with a focus on efficiency.
 
 
 ## 🌐 Socials:
