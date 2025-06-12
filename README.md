@@ -63,7 +63,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cmd-anurag/cmd-anurag/output/snake.svg" alt="Snake animation" />
+![snake gif](https://raw.githubusercontent.com/cmd-anurag/cmd-anurag/output/snake.svg)
+
 
 ###
 
