@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=cmd-anurag&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cmd-anurag&theme=dark" alt="GitHub Streaks could not be loaded. This is likely a GitHub API issue." /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmd-anurag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=%F0%9F%8E%A8%20My%20Palette%20of%20Programming" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmd-anurag&radius=16&theme=merko&area=true&order=5&custom_title=%F0%9F%93%82%20%20~/.git/graph&hide_border=true&hide_title=false&title_color=ffffff&line=1835f0&area_color=3d52e0" height="300" alt="activity-graph graph"  />
 </div>
